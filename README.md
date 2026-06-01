@@ -1,4 +1,4 @@
-# Investment Agent v2
+# Investment Agent
 
 Automated investment suggestion agent built on Google Apps Script. Runs daily, pulls your Wallbit balance and available assets, uses a two-phase Gemini architecture to select and size positions, and sends an HTML email with actionable buy recommendations — all free.
 
